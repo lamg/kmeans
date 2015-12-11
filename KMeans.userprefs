@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Test/Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KMeans/MyClass.cs">
+    <Files>
+      <File FileName="KMeans/MyClass.cs" Line="12" Column="34" />
+      <File FileName="Test/Program.cs" Line="16" Column="4" />
+      <File FileName="GUI/MWindow.cs" Line="76" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

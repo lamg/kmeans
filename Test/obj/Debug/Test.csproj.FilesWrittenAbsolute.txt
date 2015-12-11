@@ -1,0 +1,7 @@
+/home/luis/Público/KMeans/Test/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/luis/Público/KMeans/Test/bin/Debug/Test.exe.mdb
+/home/luis/Público/KMeans/Test/bin/Debug/Test.exe
+/home/luis/Público/KMeans/Test/obj/Debug/Test.exe
+/home/luis/Público/KMeans/Test/obj/Debug/Test.exe.mdb
+/home/luis/Público/KMeans/Test/bin/Debug/KMeans.dll
+/home/luis/Público/KMeans/Test/bin/Debug/KMeans.dll.mdb
